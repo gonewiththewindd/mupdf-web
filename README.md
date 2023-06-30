@@ -1,4 +1,5 @@
 # mupdf-web-vue
+打包的时候，wasm文件无法打包进js目录，后边再看
 
 ## Project setup
 ```
